@@ -10,7 +10,7 @@ Este é um projeto base em React configurado com Redux e Redux Saga, pronto para
 
 A estrutura do projeto segue uma organização modular, facilitando a escalabilidade e manutenção do código.
 
-src/
+src/<br>
 ├── components/ # Componentes reutilizáveis<br>
 ├── pages/ # Páginas do aplicativo<br>
 ├── services/ # Configuração de serviços como Axios<br>
